@@ -5,6 +5,7 @@ export const moviesDate = [
         rating: 5,
         name: "Noura rêve",
         date: "2019"
+        
     },
     {
         id: Math.random(),
